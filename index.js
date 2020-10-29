@@ -8,8 +8,7 @@ function clean(text) {
         return text;
 }
 
-const prefix = "!";
-const token = " ";
+
 const embedColor = 0xE52B50;
 
 client.on("ready", () => {
